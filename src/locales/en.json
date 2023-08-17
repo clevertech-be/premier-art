@@ -1,5 +1,16 @@
 {
-  "title": "Welcome to Premier Art",
+  "title": "Premier Art Architecture",
+
+  "home.meta.title": "Premier Art Architecture",
+  "home.meta.description": "Premier Art Architecture",
+  "contact.meta.title": "Contact us",
+  "contact.meta.description": "Contact us",
+  "mission.meta.title": "Our mision and values",
+  "mission.meta.description": "Our mision and values",
+  "about.meta.title": "More about us",
+  "about.meta.description": "More about us",
+  "projects.meta.title": "Our projects",
+  "projects.meta.description": "Our projects",
 
   "link.home": "Home",
   "link.about": "About us",
