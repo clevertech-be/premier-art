@@ -26,7 +26,7 @@ export default function Header({ navbarOpen, setNavbarOpen }) {
       >
         <Link
           href={'/'}
-          className='relative'
+          className='relative w-5 h-5 cursor-pointer'
           onClick={(e) => {
             e.preventDefault()
             setNavbarOpen(!navbarOpen)

@@ -9,11 +9,11 @@ export default function MenuOverlay({ navbarOpen, setNavbarOpen }) {
   const { push } = useRouter()
   return (
     <nav
-      className={`fixed flex w-full h-full p-10 z-30 justify-center py-10 bg-primary-900 text-white bg-opacity-100 transform delay-100 transition-all duration-300 ${
+      className={`flex w-full h-screen z-30 justify-center bg-primary-900 text-white bg-opacity-100 transform delay-100 transition-all duration-300 ${
         navbarOpen ? 'opacity-100 translate-x-0' : 'opacity-0 -translate-x-full'
       }`}
     >
-      <div className='max-w-screen-xl 2xl:max-w-screen-2xl text-lg md:text-3xl flex flex-col gap-4 justify-between items-center p-10 mb-40'>
+      <div className='max-w-screen-xl 2xl:max-w-screen-2xl mx-auto text-lg md:text-3xl flex flex-col gap-2 items-center p-10'>
         {injected.pages.map((item, index) => (
           <Link
             key={index}

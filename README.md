@@ -114,3 +114,5 @@ Rachid Asli - rachid@clevertech.be
 [x] fix about page
 [x] fix mission page
 [x] fix project detail page
+
+# 22/08 - 1

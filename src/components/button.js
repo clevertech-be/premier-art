@@ -24,3 +24,15 @@ export function InvertedButton({ message, link, onClick }) {
     </button>
   )
 }
+
+export function Button2({ message, link, onClick }) {
+  return (
+    <button
+      onClick={onClick}
+      className={`p-5  transition-all ease-in-out duration-300 bg-transparent text-primary-900 font-bold text:xs md:text-md leading-normal rounded-sm border-2 hover:border-primary-900 border-transparent`}
+      type='submit'
+    >
+      {link ? <Link href={link}>{message}</Link> : <span>{message}</span>}
+    </button>
+  )
+}

@@ -13,8 +13,11 @@ export default function Layout({ children }) {
       <main>
         <SEO />
         <Header navbarOpen={navbarOpen} setNavbarOpen={setNavbarOpen} />
-        <MenuOverlay navbarOpen={navbarOpen} setNavbarOpen={setNavbarOpen} />
-        <Container>{children}</Container>
+        {navbarOpen ? (
+          <MenuOverlay navbarOpen={navbarOpen} setNavbarOpen={setNavbarOpen} />
+        ) : (
+          <Container>{children}</Container>
+        )}
         <Footer navbarOpen={navbarOpen} />
         <CookieBanner />
       </main>

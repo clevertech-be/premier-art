@@ -1,5 +1,5 @@
 import React from 'react'
-import Button, { InvertedButton } from '../button'
+import { Button2, InvertedButton } from '../button'
 
 export default function AboutCard({
   title,
@@ -18,7 +18,7 @@ export default function AboutCard({
       <div className='flex flex-row justify-start gap-2'>
         {mainLink && mainLinkText && <InvertedButton message={mainLinkText} link={mainLink} />}
         {secondaryLink && secondaryLinkText && (
-          <Button message={secondaryLinkText} link={secondaryLink} />
+          <Button2 message={secondaryLinkText} link={secondaryLink} />
         )}
       </div>
     </div>
