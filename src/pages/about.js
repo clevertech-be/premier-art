@@ -24,31 +24,27 @@ export default function About() {
       <QuoteCard
         quote={t('about.quote1.text')}
         source={t('about.quote1.source')}
-        image={'/images/quote/jurica-koletic.png'}
+        image={'/images/quote/ahmed.png'}
       />
 
       <div className='flex flex-col gap-2 justify-center py-10 items-center w-full'>
         <div className='grid grid-flow-dense grid-cols-1 md:grid-cols-3 gap-6'>
           <TeamCard
             description={t('about.team.member1.description')}
-            firstName={'Ricardo'}
-            lastName={'Ramirez'}
-            link={'https://www.linkedin.com/in/ricardo-ramirez-1a1a1a1a1/'}
-            image='/images/teams/ricardo.png'
+            firstName={'Ahmed'}
+            lastName={'Ismaïl'}
+            link={'https://www.linkedin.com/in/ahmed-isma%C3%AFl-415313124/'}
+            image='/images/teams/ahmed.png'
           />
           <TeamCard
             description={t('about.team.member3.description')}
-            firstName={'Ricardo'}
-            lastName={'Ramirez'}
-            link={'https://www.linkedin.com/in/ricardo-ramirez-1a1a1a1a1/'}
-            image='/images/teams/ricardo.png'
+            firstName={'Annela'}
+            image='/images/teams/unknown.png'
           />
           <TeamCard
             description={t('about.team.member2.description')}
-            firstName={'Ricardo'}
-            lastName={'Ramirez'}
-            link={'https://www.linkedin.com/in/ricardo-ramirez-1a1a1a1a1/'}
-            image='/images/teams/ricardo.png'
+            firstName={'Ram'}
+            image='/images/teams/unknown.png'
           />
         </div>
       </div>
@@ -72,7 +68,7 @@ export default function About() {
               loading='lazy'
               sizes='100vw'
               alt='About 1 illustration'
-              src={'/images/about/about1.png'}
+              src={'/images/about/about2.png'}
             />
           </div>
         </div>

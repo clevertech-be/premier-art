@@ -1,1 +1,112 @@
-{}
+{
+  "about.title": "À Propos de Nous",
+  "about.description": "Premier Art se distingue par son approche innovante et créative en architecture. Notre équipe d'experts combine passion, savoir-faire et une vision moderne pour réaliser des projets qui redéfinissent le paysage architectural.",
+  "about.hero.primaryAction": "Contactez-nous",
+  "about.hero.secondaryAction": "Prenez un Rendez-vous",
+  "about.meta.description": "En savoir plus sur nous",
+  "about.meta.title": "En savoir plus sur nous",
+  "about.quote1.source": "Ahmed - CEO",
+  "about.quote1.text": "Chez Premier Art, nous croyons que l'architecture est l'art de créer des espaces qui enrichissent la vie. Notre mission est de concrétiser des visions audacieuses en réalités tangibles.",
+  "about.team.member1.description": "Expert en conception architecturale, notre premier membre d'équipe apporte une vision créative et une approche méticuleuse dans chaque projet, assurant des résultats exceptionnels.",
+  "about.team.member2.description": "Spécialiste en gestion de projet, ce membre clé de l'équipe assure que chaque projet est mené avec précision, efficacité et dans le respect des délais et budgets.",
+  "about.team.member3.description": "Notre expert en durabilité intègre des pratiques éco-responsables dans nos projets, contribuant à créer des bâtiments qui sont non seulement beaux, mais aussi respectueux de l'environnement.",
+
+  "contact.card.action": "Prendre un rendez vous",
+  "contact.card.map": "Sur Google Maps",
+  "contact.card.title": "Premier Art",
+
+  "contact.form.description": "Contactez nous pour plus d'informations ou pour prendre rendez-vous. Nous vous répondrons dans les plus brefs délais.",
+  "contact.form.email": "Email",
+  "contact.form.email.placeholder": "Votre email",
+  "contact.form.error": "Une erreur est survenue lors du traitement de votre demande.",
+  "contact.form.message": "Message",
+  "contact.form.message.placeholder": "Votre message",
+  "contact.form.name": "Name",
+  "contact.form.name.placeholder": "Votre nom",
+  "contact.form.send": "Envoyer",
+  "contact.form.success": "Votre message a été envoyé avec succès.",
+  "contact.form.title": "Contactez nous",
+
+  "contact.meta.description": "Contactez nous",
+  "contact.meta.title": "Contactez nous",
+
+  "home.about.description": "Bienvenue chez Premier Art, une firme d'architecture distinguée qui révolutionne l'art de construire en Belgique. Fondée à Bruxelles, notre cabinet s'est rapidement imposé comme un leader dans la conception de projets architecturaux innovants et durables. Notre équipe, composée d'architectes talentueux et expérimentés, se dédie à la création d'espaces qui ne se contentent pas de répondre aux attentes, mais les surpassent.",
+  "home.about.primaryAction": "En savoir plus",
+  "home.about.title": "À Propos de Premier Art",
+
+  "home.description": "Premier Art, votre référence en matière d'architecture, transcende les frontières de Bruxelles pour offrir des services exceptionnels dans toute la Belgique. Notre philosophie est centrée sur la création de structures qui ne sont pas seulement esthétiquement plaisantes, mais aussi fonctionnelles, durables, et parfaitement intégrées dans leur environnement. Chaque projet est un chef-d'œuvre de précision, reflétant notre engagement pour la qualité, l'innovation, et un design impeccable. Chez Premier Art, nous transformons vos rêves en réalités architecturales époustouflantes, avec une attention méticuleuse à chaque détail.",
+  "home.hero.primaryAction": "Contactez nous",
+  "home.meta.description": "Premier Art, votre référence en matière d'architecture, transcende les frontières de Bruxelles pour offrir des services exceptionnels dans toute la Belgique. Notre philosophie est centrée sur la création de structures qui ne sont pas seulement esthétiquement plaisantes, mais aussi fonctionnelles, durables, et parfaitement intégrées dans leur environnement. Chaque projet est un chef-d'œuvre de précision, reflétant notre engagement pour la qualité, l'innovation, et un design impeccable. Chez Premier Art, nous transformons vos rêves en réalités architecturales époustouflantes, avec une attention méticuleuse à chaque détail.",
+  "home.meta.title": "Premier Art : L'Excellence Architecturale en Belgique",
+  "home.project.shortDescription": "Beauté, Structure, et Perfection : La Signature de Premier Art en Belgique",
+  "home.projects": "Voir tous les projets",
+  "home.title": "Premier Art : L'Excellence Architecturale en Belgique",
+
+  "link.about": "À Propos",
+  "link.contact": "Contact",
+  "link.home": "Accueil",
+  "link.mission": "Mission",
+  "link.projects": "Projets",
+
+  "mission.1.title": "Conception Architecturale",
+  "mission.1.description": "Chez Premier Art, la conception architecturale est l'art de créer des espaces inspirants et durables. Nous écoutons attentivement les besoins de nos clients, analysons le contexte du site et appliquons des solutions innovantes. Chaque projet est une alchimie entre créativité, fonctionnalité et intégration environnementale, visant à réaliser des structures à la fois esthétiques et pratiques.",
+
+  "mission.2.title": "Gestion de Projet",
+  "mission.2.description": "Notre service de gestion de projet garantit que chaque étape, de la conception à la réalisation, respecte les standards de qualité. Nous coordonnons toutes les parties prenantes, assurant le respect des délais et des budgets, pour une expérience client fluide et une livraison qui excède les attentes.",
+
+  "mission.3.title": "Rénovation et Restauration",
+  "mission.3.description": "Nous combinons respect historique et innovation moderne pour rénover et restaurer des bâtiments. Premier Art revitalise chaque structure, préservant son caractère tout en améliorant fonctionnalité et durabilité.",
+
+  "mission.4.title": "Design d'Intérieur",
+  "mission.4.description": "Notre approche de design d'intérieur crée des espaces reflétant l'identité des clients. Nous intégrons design, confort et fonctionnalité, pour des intérieurs uniques et inspirants.",
+
+  "mission.5.title": "Planification Urbaine et Paysagère",
+  "mission.5.description": "Nous élaborons des plans urbains et paysagers qui encouragent la connectivité et la durabilité, améliorant la qualité de vie tout en créant des environnements esthétiques.",
+
+  "mission.6.title": "Conseil en Durabilité",
+  "mission.6.description": "Notre conseil en durabilité vise à intégrer l'éco-conception dans nos projets, proposant des bâtiments éco-responsables qui respectent les normes de durabilité les plus strictes.",
+
+  "mission.7.title": "Conception d'Espaces Publics",
+  "mission.7.description": "Nous créons des espaces publics qui favorisent l'interaction sociale, rendant les villes plus vivantes et inclusives, en collaboration avec les autorités locales et les communautés.",
+
+  "mission.description": "Chez Premier Art, nous croyons que l'architecture est un art qui façonne le quotidien des individus et des communautés. Notre approche est fondée sur une écoute attentive des besoins de nos clients et une compréhension approfondie de leur vision. Nous combinons cette sensibilité avec notre expertise technique pour concevoir des bâtiments qui sont non seulement esthétiquement plaisants, mais aussi fonctionnels, respectueux de l'environnement et parfaitement intégrés dans leur contexte urbain ou rural.",
+  "mission.meta.description": "Chez Premier Art, nous croyons que l'architecture est un art qui façonne le quotidien des individus et des communautés. Notre approche est fondée sur une écoute attentive des besoins de nos clients et une compréhension approfondie de leur vision. Nous combinons cette sensibilité avec notre expertise technique pour concevoir des bâtiments qui sont non seulement esthétiquement plaisants, mais aussi fonctionnels, respectueux de l'environnement et parfaitement intégrés dans leur contexte urbain ou rural.",
+  "mission.meta.title": "Notre mission et nos valeurs",
+  "mission.title": "Notre mission",
+
+  "newsletter.title": "Abonnez-vous à Notre Newsletter",
+  "newsletter.description": "Restez à la pointe de l'architecture et découvrez les nouveautés de Premier Art. Inscrivez-vous pour recevoir nos dernières actualités, conseils exclusifs et invitations à des événements spéciaux.",
+  "newsletter.email.placeholder": "Votre email",
+  "newsletter.button": "Restez Informé",
+  "newsletter.form.error": "Une erreur s'est produite lors du traitement de votre demande.",
+  "newsletter.form.success": "Votre inscription a été enregistrée avec succès.",
+
+  "projects.title": "Nos Projets",
+  "projects.description": "Découvrez notre portfolio diversifié, reflétant notre expertise en architecture, construction, rénovation et aménagement paysager. Chaque projet est une œuvre d'art, alliant esthétique innovante et fonctionnalité.",
+  "projects.detail.area": "Superficie",
+  "projects.detail.location": "Localisation",
+  "projects.detail.status": "Statut",
+  "projects.filter.all": "Tous les projets",
+  "projects.filter.architecture": "Architecture",
+  "projects.filter.construction": "Construction",
+  "projects.filter.landscape": "Aménagement Paysager",
+  "projects.filter.renovation": "Rénovation",
+  "projects.meta.description": "Nos projets",
+  "projects.meta.title": "Nos projets",
+  "projects.other": "Autres projets",
+  "projects.plan": "Les Plans",
+  "projects.plan.description": "Explorez les plans et les concepts de nos projets, illustrant notre approche détaillée et notre engagement envers la précision et l'innovation dans chaque conception.",
+  "projects.before": "Avant",
+  "projects.after": "Après",
+  "projects.all": "Voir tous les projets",
+
+  "notfound.title": "Page non trouvée",
+  "notfound.message": "La page que vous recherchez n'existe pas.",
+  "notfound.back": "Retourner à l'accueil",
+
+  "maintenance.title": "En maintenance",
+  "maintenance.message": "Nous sommes actuellement en maintenance. Nous reviendrons bientôt.",
+  "maintenance.back": "Retourner à l'accueil",
+
+  "title": "Premier Art : L'Excellence Architecturale en Belgique"
+}

@@ -1,1 +1,111 @@
-{}
+{
+  "about.title": "Over Ons",
+  "about.description": "Premier Art onderscheidt zich door zijn innovatieve en creatieve benadering in architectuur. Ons team van experts combineert passie, expertise en een moderne visie om projecten te creëren die het architectuurlandschap herdefiniëren.",
+  "about.hero.primaryAction": "Neem Contact Op",
+  "about.hero.secondaryAction": "Maak een Afspraak",
+  "about.meta.description": "Meer over ons",
+  "about.meta.title": "Meer over ons",
+  "about.quote1.source": "Ahmed - CEO",
+  "about.quote1.text": "Bij Premier Art geloven we dat architectuur de kunst is om ruimtes te creëren die het leven verrijken. Onze missie is om gedurfde visies om te zetten in tastbare realiteiten.",
+  "about.team.member1.description": "Een expert in architectonisch ontwerp, ons eerste teamlid brengt een creatieve visie en nauwgezette aanpak in elk project, wat zorgt voor uitzonderlijke resultaten.",
+  "about.team.member2.description": "Een specialist in projectbeheer, dit sleutellid van het team zorgt ervoor dat elk project nauwkeurig, efficiënt en binnen tijd en budget wordt uitgevoerd.",
+  "about.team.member3.description": "Onze expert in duurzaamheid integreert milieuvriendelijke praktijken in onze projecten, bijdragend aan de creatie van gebouwen die niet alleen mooi, maar ook milieuvriendelijk zijn.",
+
+  "contact.card.action": "Maak een Afspraak",
+  "contact.card.map": "Op Google Maps",
+  "contact.card.title": "Premier Art",
+
+  "contact.form.description": "Neem contact met ons op voor meer informatie of om een afspraak te maken. We zullen zo snel mogelijk reageren.",
+  "contact.form.email": "Email",
+  "contact.form.email.placeholder": "Uw e-mail",
+  "contact.form.error": "Er is een fout opgetreden bij het verwerken van uw verzoek.",
+  "contact.form.message": "Bericht",
+  "contact.form.message.placeholder": "Uw bericht",
+  "contact.form.name": "Naam",
+  "contact.form.name.placeholder": "Uw naam",
+  "contact.form.send": "Verzenden",
+  "contact.form.success": "Uw bericht is succesvol verzonden.",
+  "contact.form.title": "Neem contact met ons op",
+
+  "contact.meta.description": "Neem contact met ons op",
+  "contact.meta.title": "Neem contact met ons op",
+
+  "home.about.description": "Welkom bij Premier Art, een vooraanstaand architectenbureau dat de kunst van het bouwen in België revolutioneert. Opgericht in Brussel, heeft ons bureau zich snel gevestigd als leider in het ontwerp van innovatieve en duurzame architectuurprojecten. Ons team, bestaande uit getalenteerde en ervaren architecten, is toegewijd aan het creëren van ruimtes die niet alleen aan de verwachtingen voldoen, maar deze overtreffen.",
+  "home.about.primaryAction": "Meer weten",
+  "home.about.title": "Over Premier Art",
+
+  "home.description": "Premier Art, uw referentie in architectuur, gaat verder dan de grenzen van Brussel en biedt uitzonderlijke diensten in heel België. Onze filosofie is gericht op het creëren van structuren die niet alleen esthetisch aangenaam zijn, maar ook functioneel, duurzaam en perfect geïntegreerd in hun omgeving. Elk project is een meesterwerk van precisie, weerspiegelend onze toewijding aan kwaliteit, innovatie en onberispelijk ontwerp. Bij Premier Art transformeren we uw dromen in adembenemende architecturale realiteiten, met minutieuze aandacht voor elk detail.",
+  "home.hero.primaryAction": "Neem contact op",
+  "home.meta.description": "Premier Art, uw referentie in architectuur, gaat verder dan de grenzen van Brussel en biedt uitzonderlijke diensten in heel België. Onze filosofie is gericht op het creëren van structuren die niet alleen esthetisch aangenaam zijn, maar ook functioneel, duurzaam en perfect geïntegreerd in hun omgeving. Elk project is een meesterwerk van precisie, weerspiegelend onze toewijding aan kwaliteit, innovatie en onberispelijk ontwerp. Bij Premier Art transformeren we uw dromen in adembenemende architecturale realiteiten, met minutieuze aandacht voor elk detail.",
+  "home.meta.title": "Premier Art: Architecturale Uitmuntendheid in België",
+  "home.project.shortDescription": "Schoonheid, Structuur en Perfectie: Het Handelsmerk van Premier Art in België",
+  "home.projects": "Bekijk alle projecten",
+  "home.title": "Premier Art: Architecturale Uitmuntendheid in België",
+
+  "link.about": "Over",
+  "link.contact": "Contact",
+  "link.home": "Home",
+  "link.mission": "Missie",
+  "link.projects": "Projecten",
+
+  "mission.1.title": "Architectonisch Ontwerp",
+  "mission.1.description": "Bij Premier Art is architectonisch ontwerp de kunst van het creëren van inspirerende en duurzame ruimtes. We luisteren zorgvuldig naar de behoeften van onze klanten, analyseren de context van de locatie en passen innovatieve oplossingen toe. Elk project is een samensmelting van creativiteit, functionaliteit en milieuintegratie, gericht op het creëren van zowel esthetische als praktische structuren.",
+
+  "mission.2.title": "Projectmanagement",
+  "mission.2.description": "Onze projectmanagementdienst zorgt ervoor dat elke fase, van ontwerp tot uitvoering, voldoet aan kwaliteitsnormen. We coördineren alle belanghebbenden, waarborgen de naleving van tijdlijnen en budgetten, voor een soepele klantbeleving en levering die de verwachtingen overtreft.",
+
+  "mission.3.title": "Renovatie en Restauratie",
+  "mission.3.description": "We combineren historisch respect en moderne innovatie om gebouwen te renoveren en te restaureren. Premier Art revitaliseert elke structuur, waarbij het karakter behouden blijft en tegelijkertijd functionaliteit en duurzaamheid worden verbeterd.",
+
+  "mission.4.title": "Interieurontwerp",
+  "mission.4.description": "Onze benadering van interieurontwerp creëert ruimtes die de identiteit van de klanten weerspiegelen. We integreren ontwerp, comfort en functionaliteit, voor unieke en inspirerende interieurs.",
+
+  "mission.5.title": "Stedenbouwkundige en Landschapsplanning",
+  "mission.5.description": "We ontwikkelen stedenbouwkundige en landschapsplannen die connectiviteit en duurzaamheid bevorderen, de levenskwaliteit verbeteren en esthetische omgevingen creëren.",
+
+  "mission.6.title": "Duurzaamheidsadvies",
+  "mission.6.description": "Ons duurzaamheidsadvies streeft ernaar om eco-ontwerp te integreren in onze projecten, waarbij we milieuvriendelijke gebouwen voorstellen die voldoen aan de strengste duurzaamheidsnormen.",
+
+  "mission.7.title": "Ontwerp van Openbare Ruimtes",
+  "mission.7.description": "We creëren openbare ruimtes die sociale interactie bevorderen, waardoor steden levendiger en inclusiever worden, in samenwerking met lokale autoriteiten en gemeenschappen.",
+  "mission.description": "Bij Premier Art geloven we dat architectuur een kunstvorm is die het dagelijks leven van individuen en gemeenschappen vormgeeft. Onze aanpak is gebaseerd op aandachtig luisteren naar de behoeften van onze klanten en een diepgaand begrip van hun visie. We combineren deze gevoeligheid met onze technische expertise om gebouwen te ontwerpen die niet alleen esthetisch aantrekkelijk zijn, maar ook functioneel, milieuvriendelijk en perfect geïntegreerd in hun stedelijke of landelijke context.",
+  "mission.meta.description": "Bij Premier Art geloven we dat architectuur een kunstvorm is die het dagelijks leven van individuen en gemeenschappen vormgeeft. Onze aanpak is gebaseerd op aandachtig luisteren naar de behoeften van onze klanten en een diepgaand begrip van hun visie. We combineren deze gevoeligheid met onze technische expertise om gebouwen te ontwerpen die niet alleen esthetisch aantrekkelijk zijn, maar ook functioneel, milieuvriendelijk en perfect geïntegreerd in hun stedelijke of landelijke context.",
+  "mission.meta.title": "Onze Missie en Waarden",
+  "mission.title": "Onze Missie",
+
+  "newsletter.title": "Abonneer op Onze Nieuwsbrief",
+  "newsletter.description": "Blijf op de hoogte van architectuur en ontdek het laatste van Premier Art. Schrijf u in om ons laatste nieuws, exclusieve tips en uitnodigingen voor speciale evenementen te ontvangen.",
+  "newsletter.email.placeholder": "Uw email",
+  "newsletter.button": "Blijf Geïnformeerd",
+  "newsletter.form.error": "Er is een fout opgetreden bij het verwerken van uw verzoek.",
+  "newsletter.form.success": "Uw inschrijving is succesvol geregistreerd.",
+
+  "projects.title": "Onze Projecten",
+  "projects.description": "Ontdek ons diverse portfolio, weerspiegelend onze expertise in architectuur, bouw, renovatie en landschapsontwerp. Elk project is een kunstwerk, waarin innovatieve esthetiek en functionaliteit samenkomen.",
+  "projects.detail.area": "Oppervlakte",
+  "projects.detail.location": "Locatie",
+  "projects.detail.status": "Status",
+  "projects.filter.all": "Alle Projecten",
+  "projects.filter.architecture": "Architectuur",
+  "projects.filter.construction": "Bouw",
+  "projects.filter.landscape": "Landschap",
+  "projects.filter.renovation": "Renovatie",
+  "projects.meta.description": "Onze projecten",
+  "projects.meta.title": "Onze projecten",
+  "projects.other": "Andere projecten",
+  "projects.plan": "De Plannen",
+  "projects.plan.description": "Verken de plannen en concepten van onze projecten, die onze gedetailleerde aanpak en toewijding aan precisie en innovatie in elk ontwerp illustreren.",
+  "projects.before": "Voor",
+  "projects.after": "Na",
+  "projects.all": "Bekijk alle projecten",
+
+  "notfound.title": "Pagina niet gevonden",
+  "notfound.message": "De pagina die u zoekt bestaat niet.",
+  "notfound.back": "Ga terug naar home",
+
+  "maintenance.title": "Onderhoud bezig",
+  "maintenance.message": "We zijn momenteel in onderhoud. We zijn snel terug.",
+  "maintenance.back": "Ga terug naar home",
+
+  "title": "Premier Art: Architecturale Uitmuntendheid in België"
+}

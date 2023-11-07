@@ -33,7 +33,7 @@ export default function Home() {
       <QuoteCard
         quote={t('about.quote1.text')}
         source={t('about.quote1.source')}
-        image={'/images/quote/jurica-koletic.png'}
+        image={'/images/quote/ahmed.png'}
       />
 
       <MoreAbout

@@ -1,5 +1,5 @@
 {
-  "keywords": ["architecture", "premierart", "projet", "plans"],
+  "keywords": ["architecture"],
   "title": "Premier Art - Cabinet d'architecture",
   "description": "Premier Art - Cabinet d'architecture, realise vos projets de vie.",
   "manifest": {
@@ -81,24 +81,7 @@
       "link": "https://www.linkedin.com"
     }
   ],
-  "sla": [
-    {
-      "title": "@ 2023 Premier Art",
-      "link": "/"
-    },
-    {
-      "title": "Privacy Policy",
-      "link": "/policy/privacy"
-    },
-    {
-      "title": "Terms Policy",
-      "link": "/policy/terms"
-    },
-    {
-      "title": "Cookie Policy",
-      "link": "/policy/cookie"
-    }
-  ],
+  "sla": [],
   "address": {
     "url": "https://goo.gl/maps/xS8che1DjJgBenVd7",
     "address": "Av. Roi Albert I 64, 1780 Wemmel, Belgique"
@@ -109,7 +92,7 @@
   "locales": ["fr", "nl", "en"],
   "defaultLocale": "en",
   "author": {
-    "name": "Crackn",
-    "url": "https://www.crackn.co"
+    "name": "Clevertech",
+    "url": "https://www.clevertech.be"
   }
 }

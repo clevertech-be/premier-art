@@ -1,6 +1,6 @@
 export const filters = ['all', 'construction', 'renovation', 'landscape', 'architecture']
 
-export const allProjects = [
+export const projects = [
   {
     name: 'project1',
     title: 'home.project1.title',
@@ -128,3 +128,5 @@ export const allProjects = [
     filter: ['all'],
   },
 ]
+
+export const allProjects = []

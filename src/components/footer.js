@@ -29,17 +29,6 @@ export default function Footer({ navbarOpen }) {
               </Link>
             ))}
           </div>
-          <div className={`flex gap-2 flex-row justify-center ${navbarOpen && 'hidden'}`}>
-            {injected.sla.map((item, index) => (
-              <Link
-                key={index}
-                className='text-primary-900 font-normal hover:font-bold  transition-all ease-in-out duration-300'
-                href={item.link}
-              >
-                {item.title}
-              </Link>
-            ))}
-          </div>
         </div>
         <div className={`uppercase text-gray-400 ${navbarOpen && 'hidden'}`}>
           Made with love by{' '}
