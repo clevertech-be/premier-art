@@ -100,6 +100,10 @@
   "projects.after": "Après",
   "projects.all": "Voir tous les projets",
 
+  "policy.cookie.title": "Ce site utilise des cookies pour améliorer l'expérience de l'utilisateur.",
+  "policy.cookie.text": "En utilisant notre site Web, vous consentez à l'utilisation de tous les cookies conformément à notre ",
+  "policy.cookie.page": "Politique de cookies",
+
   "notfound.title": "Page non trouvée",
   "notfound.message": "La page que vous recherchez n'existe pas.",
   "notfound.back": "Retourner à l'accueil",
