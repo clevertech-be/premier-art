@@ -21,6 +21,16 @@ export default function About() {
         secondaryLinkText={t('about.hero.secondaryAction')}
       />
 
+      <div className='flex flex-col gap-5 justify-start py-10 w-full'>
+        {t('about.description.2')
+          .split('\n')
+          .map((item, index) => (
+            <div key={index} className='text-base font-normal'>
+              {item}
+            </div>
+          ))}
+      </div>
+
       <QuoteCard
         quote={t('about.quote1.text')}
         source={t('about.quote1.source')}
