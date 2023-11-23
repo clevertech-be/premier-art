@@ -21,7 +21,7 @@ export default function Home() {
         mainLinkText={t('home.hero.primaryAction')}
       />
 
-      <div className='hidden flex-col gap-2 justify-center py-10 items-center w-full'>
+      <div className='flex flex-col gap-2 justify-center py-10 items-center w-full'>
         <div className='grid grid-flow-dense grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 pb-10'>
           {allProjects.slice(0, 3).map((item, index) => (
             <ProjectCard key={index} project={item} />
