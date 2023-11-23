@@ -16,7 +16,6 @@ export default function Footer({ navbarOpen }) {
             {injected.socials.map((item, index) => (
               <Link key={index} href={item.link}>
                 <Image
-                  loading='lazy'
                   width={20}
                   height={20}
                   style={{

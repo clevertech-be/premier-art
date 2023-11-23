@@ -12,7 +12,7 @@ export default function AboutHero({
   image,
 }) {
   return (
-    <div className='w-full md:relative mb-20'>
+    <div className='w-full md:relative my-20'>
       <div className='w-full self-stretch'>
         <Image
           className='w-full'

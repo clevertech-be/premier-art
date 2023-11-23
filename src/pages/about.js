@@ -37,50 +37,44 @@ export default function About() {
         image={'/images/quote/ahmed.png'}
       />
 
-      <div className='flex flex-col gap-2 justify-center py-10 items-center w-full'>
-        <div className='grid grid-flow-dense grid-cols-1 md:grid-cols-3 gap-6'>
-          <TeamCard
-            description={t('about.team.member1.description')}
-            firstName={'Ahmed'}
-            lastName={'Ismaïl'}
-            link={'https://www.linkedin.com/in/ahmed-isma%C3%AFl-415313124/'}
-            image='/images/teams/ahmed.png'
-          />
-          <TeamCard
-            description={t('about.team.member3.description')}
-            firstName={'Annela'}
-            image='/images/teams/unknown.png'
-          />
-          <TeamCard
-            description={t('about.team.member2.description')}
-            firstName={'Ram'}
-            image='/images/teams/unknown.png'
-          />
-        </div>
+      <div className='grid grid-flow-dense grid-cols-1 md:grid-cols-3 gap-20 my-20'>
+        <TeamCard
+          description={t('about.team.member1.description')}
+          firstName={'Ahmed'}
+          lastName={'Ismaïl'}
+          link={'https://www.linkedin.com/in/ahmed-isma%C3%AFl-415313124/'}
+          image='/images/teams/ahmed.png'
+        />
+        <TeamCard
+          description={t('about.team.member3.description')}
+          firstName={'Annela'}
+          image='/images/teams/unknown.png'
+        />
+        <TeamCard
+          description={t('about.team.member2.description')}
+          firstName={'Ram'}
+          image='/images/teams/unknown.png'
+        />
       </div>
 
-      <div className='flex flex-col gap-2 justify-center py-10 items-center w-full'>
-        <div className='grid grid-flow-dense grid-cols-1 md:grid-cols-2 gap-4'>
-          <div className='w-full h-auto'>
-            <Image
-              loading='lazy'
-              sizes='100vw'
-              width={500}
-              height={500}
-              alt='About 1 illustration'
-              src={'/images/about/about1.png'}
-            />
-          </div>
-          <div className='w-full h-auto'>
-            <Image
-              width={500}
-              height={500}
-              loading='lazy'
-              sizes='100vw'
-              alt='About 1 illustration'
-              src={'/images/about/about2.png'}
-            />
-          </div>
+      <div className='grid grid-flow-dense grid-cols-1 md:grid-cols-2 gap-4 my-20'>
+        <div className='w-full h-auto'>
+          <Image
+            sizes='100vw'
+            width={500}
+            height={500}
+            alt='About 1 illustration'
+            src={'/images/about/about1.png'}
+          />
+        </div>
+        <div className='w-full h-auto'>
+          <Image
+            width={500}
+            height={500}
+            sizes='100vw'
+            alt='About 1 illustration'
+            src={'/images/about/about2.png'}
+          />
         </div>
       </div>
 

@@ -17,7 +17,6 @@ export default function ProjectCard({ project }) {
         <Link href={link}>
           <div className='w-full h-auto rounded-sm'>
             <Image
-              loading='lazy'
               className='m-auto'
               width={500}
               height={500}

@@ -9,7 +9,7 @@ export default function MissionCard({ title, index, description, image, inverted
       }`}
     >
       <div className='w-full md:w-1/2 relative h-[15rem] md:h-[25rem]'>
-        <Image sizes='100vw' loading='lazy' fill alt='Mission illustration' src={image} />
+        <Image sizes='100vw' fill alt='Mission illustration' src={image} />
       </div>
       <div
         className={`w-full md:w-1/2 p-5 md:p-10 flex flex-col gap-4 font-bold ${

@@ -8,12 +8,12 @@ export default function MenuOverlay({ navbarOpen, setNavbarOpen }) {
   const { t } = useTranslate()
   const { push } = useRouter()
   return (
-    <nav
-      className={`flex w-full h-screen z-30 justify-center bg-primary-900 text-white bg-opacity-100 transform delay-100 transition-all duration-300 ${
-        navbarOpen ? 'opacity-100 translate-x-0' : 'opacity-0 -translate-x-full'
+    <div
+      className={`w-full min-h-[800px] xl:min-h-screen overflow-hidden flex justify-center bg-primary-900 text-white transform delay-100 transition-all duration-300 ${
+        navbarOpen ? 'opacity-100' : 'opacity-0'
       }`}
     >
-      <div className='max-w-screen-xl 2xl:max-w-screen-2xl mx-auto text-lg md:text-3xl flex flex-col gap-2 items-center p-10'>
+      <div className='max-w-screen-xl 2xl:max-w-screen-2xl mx-auto text-lg md:text-3xl grid gap-2 items-center'>
         {injected.pages.map((item, index) => (
           <Link
             key={index}
@@ -30,6 +30,6 @@ export default function MenuOverlay({ navbarOpen, setNavbarOpen }) {
           </Link>
         ))}
       </div>
-    </nav>
+    </div>
   )
 }

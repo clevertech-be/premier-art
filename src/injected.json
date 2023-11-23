@@ -89,8 +89,8 @@
   "tel": "+32 456 12 34 56",
   "email": "info@premierart.be",
   "tva": "BE 0123.456.789",
-  "locales": ["fr", "nl", "en"],
-  "defaultLocale": "en",
+  "locales": ["fr"],
+  "defaultLocale": "fr",
   "author": {
     "name": "Clevertech",
     "url": "https://www.clevertech.be"

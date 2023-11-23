@@ -4,18 +4,8 @@ import React from 'react'
 
 export default function TeamCard({ image, description, firstName, lastName, link = '/about' }) {
   return (
-    <div className='text-primary-900 flex gap-4 flex-col justify-between items-left font-normal'>
-      <div className='w-full h-auto rounded-sm'>
-        <Image
-          loading='lazy'
-          className='m-auto'
-          width={500}
-          height={500}
-          sizes='100vw'
-          alt='Team member avatar'
-          src={image}
-        />
-      </div>
+    <div className='text-primary-900 flex gap-4 flex-col justify-start font-normal'>
+      <Image width={200} height={200} sizes='100vw' alt='Team member avatar' src={image} />
       <div className='text-2xl font-bold'>
         {firstName} {lastName}
       </div>

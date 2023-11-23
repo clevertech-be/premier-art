@@ -7,7 +7,6 @@ export default function ProjectHero({ project }) {
     <div className='flex flex-col w-full'>
       <div className='w-full self-stretch'>
         <Image
-          loading='lazy'
           className='m-auto w-full'
           width={500}
           height={500}
